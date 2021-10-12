@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from torchvision import datasets, models
+from torchvision import models
 
 class Residual_block(nn.Module):
     def __init__(self, in_channels, out_channels, stride=1, shortcut=None):
