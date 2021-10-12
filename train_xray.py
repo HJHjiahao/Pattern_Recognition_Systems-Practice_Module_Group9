@@ -1,11 +1,10 @@
-from build_xray_dataset import filename, divide_dataset, Xray_dataset
+from build_xray_dataset import Xray_dataset
 from build_xray_models import Resnet, Pretrained_res50, Pretrained_vgg
 from torch.utils.data import DataLoader
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
-from torchvision import models
 import pickle
 import numpy as np
 
