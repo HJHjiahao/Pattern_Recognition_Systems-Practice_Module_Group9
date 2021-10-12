@@ -1,1 +1,1 @@
-folders store original data
+folders storing original data
