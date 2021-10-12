@@ -301,4 +301,3 @@ if __name__ == '__main__':
     np.save('./dataset/xray/' + 'y_original.npy', np.expand_dims(y_new+y2_new, axis=1))
 
     print(79)
-
