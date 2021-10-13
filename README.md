@@ -1,4 +1,4 @@
-# Pattern_Recognition_Systems-Practice_Module_Group9
+# Covid-19 Detection Based on Chest X-Ray and CT images
 ## X-Ray dataset divided
 [x_train](https://drive.google.com/file/d/1Vn-Gj1SpOy8buk6fgsSSRp15Ex3JTcTc/view?usp=sharing), 
 [y_train](https://drive.google.com/file/d/1FfeVowFy16CYUcTbscGgVwnicd_rl7r5/view?usp=sharing), 
