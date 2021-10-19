@@ -10,7 +10,8 @@ And the dataset divided is necessary in the **/dataset/xray/**.  So the links of
 
 
 ## Requirements
-
+Pytorch == 1.6.0
+torchvision == 0.7.0
 
 
 ## Guide
