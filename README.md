@@ -19,8 +19,8 @@ torchvision == 0.7.0
 2. Train the Pretrained_res50 and Pretrained_vgg separately,  
    then train the Ensemble. (Models architecture in build_xray_models.py, train process in train_xray.py)
 3. Test and classify a X-Ray using trained Ensemble. (An example in xray_application.py,  
-   ['./dataset/xray_res_e50_b64_lr0001_para.pt'](https://drive.google.com/file/d/1AyQBKNq0BHwV75LvNf1xfbtB_1uL-OS-/view?usp=sharing), 
-   ['./dataset/xray_vgg_e50_b64_lr0001_para.pt'](https://drive.google.com/file/d/1QPK9tg6Cjc06vmGGqhqeHIy8Y1hwfdEz/view?usp=sharing), 
+   ['./dataset/xray_res_e50_b64_lr0001_para.pt'](https://drive.google.com/file/d/1AyQBKNq0BHwV75LvNf1xfbtB_1uL-OS-/view?usp=sharing),  
+   ['./dataset/xray_vgg_e50_b64_lr0001_para.pt'](https://drive.google.com/file/d/1QPK9tg6Cjc06vmGGqhqeHIy8Y1hwfdEz/view?usp=sharing),  
    ['./dataset/xray_dnn_e50_b64_batchn_l2_para.pt'](https://drive.google.com/file/d/1E-jsWdg89VtpWhuwSgOrqGrgvnP2HpjM/view?usp=sharing)
    )
 
